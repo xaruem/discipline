@@ -1,0 +1,33 @@
+{
+  "8234178181": {
+    "streak": 0,
+    "max_streak": 0,
+    "last_check": null,
+    "goals": [],
+    "goals_done": [],
+    "challenge_today": "🚿 Холодный душ утром",
+    "challenge_done": false,
+    "week_discipline": [],
+    "week_challenges": [],
+    "wake_time": "07:00",
+    "sleep_time": "23:00",
+    "reminders_on": true,
+    "joined": "2026-04-03",
+    "meal_mode": "fixed",
+    "meal_times": [
+      "08:00",
+      "13:30",
+      "16:30",
+      "19:30"
+    ],
+    "meal_interval_hours": 4,
+    "meal_names": [
+      "Завтрак",
+      "Обед",
+      "Перекус",
+      "Ужин"
+    ],
+    "meals_eaten_today": [],
+    "meal_skips_week": []
+  }
+}
